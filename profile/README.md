@@ -13,3 +13,4 @@
 ### OUR SOCIAL MEDIA'S
 
 - President: <a href='github.com/muhie'>Muhie</a>
+- Vice President <a href='github.com/Tx42'>Bohdan</a>
