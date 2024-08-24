@@ -16,3 +16,5 @@
 - Our Email: mailto:qmelectronicssociety@qmsu.org
 - President: <a href='https://github.com/Muhie'>Muhie</a>
 - Vice President <a href='https://github.com/Tx42'>Bohdan</a>
+
+Join us!
