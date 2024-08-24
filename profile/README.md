@@ -11,8 +11,8 @@
 
 
 ### OUR SOCIAL MEDIA'S
-- Our Instagram:
+- Our Instagram: <a href="https://www.instagram.com/qmelectronics_soc?igsh=NmF0ZWp0czl4MXZu&utm_source=qr"></a Instagram>
 - Our Website: <a href="http://qmules.tech">Website</a>
-- Our Email
+- Our Email: mailto:qmelectronicssociety@qmsu.org
 - President: <a href='https://github.com/Muhie'>Muhie</a>
 - Vice President <a href='https://github.com/Tx42'>Bohdan</a>
