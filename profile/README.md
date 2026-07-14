@@ -16,7 +16,7 @@
 ### COMMITTEE: 
 - President: [Max](https://github.com/nottacat)
 - Treasurer: [Avni](https://avnidhokia.github.io/)
-- Session Lead & Social Media Manager: [Atra](https://github.com/SahalShaParveen)
+- Session Lead: [Atra](https://github.com/SahalShaParveen)
 - Resources Manager: [Komon](https://github.com/komonhayashi)
 ---
 [Join us now!](https://www.qmsu.org/groups/26265/)
