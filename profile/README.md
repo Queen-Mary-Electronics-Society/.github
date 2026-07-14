@@ -18,5 +18,6 @@
 - Treasurer: [Avni](https://avnidhokia.github.io/)
 - Session Lead: [Atra](https://github.com/SahalShaParveen)
 - Resources Manager: [Komon](https://github.com/komonhayashi)
+- Events Planner : [Terry](https://github.com/vansirect)
 ---
 [Join us now!](https://www.qmsu.org/groups/26265/)
