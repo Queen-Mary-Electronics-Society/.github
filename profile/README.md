@@ -20,4 +20,4 @@
 - Resources Manager: [Komon](https://github.com/komonhayashi)
 - Events Planner : [Terry](https://github.com/vansirect)
 ---
-[Join us now!](https://www.qmsu.org/groups/26265/)
+[![Join Now](https://img.shields.io/badge/Join%20Now-37a779?style=for-the-badge)](https://www.qmsu.org/groups/26265/)
